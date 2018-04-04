@@ -30,5 +30,5 @@ export default App;
 
 ![alt Lazy load image preview](https://cdn-images-1.medium.com/max/800/1*st2DLLQ2Sx1fdj1bcwuROQ.gif)
 
-If you want to start from scratch and create your own lazy-load component check out our Medium [blog post](https://medium.com/jsguru/react-image-lazy-loading-component-246e0cdcce02)
+If you want to start from scratch and create your own image lazy loading component check out our Medium [blog post](https://medium.com/jsguru/react-image-lazy-loading-component-246e0cdcce02)
 

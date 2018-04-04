@@ -11,11 +11,11 @@ React image lazy loading component inspired by [Polymer's Iron Image](https://ww
 
 ```javascript
 import React from 'react'; // Import react
-import IronImage from 'react-image-lazy-load'; // Install npm react lazy load package
+import IronImage from 'react-image-lazy-load'; // Import our component
 
 // Images
 import image from './iron-image-small.jpg'; // Low quality image ( Scaled down to 1% of it's original size )
-const hdUrl = 'https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905'; // Full hd image
+const hdUrl = 'https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905'; // Full HD image
 
 
 const App = () => (

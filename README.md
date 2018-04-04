@@ -7,7 +7,7 @@ React image lazy loading component inspired by [Polymer's Iron Image](https://ww
 2. You will need 2 different images
     - First one will be the image you want to display once it's loaded. ( Image in full HD )
     - Second one will be a copy of the first image scaled down to **1%.** ( Image that will be displayed until the full HD image is loaded )
-3. Your code should look something like  :arrow_down:
+3. Your code should look something like this  :arrow_down:
 
 ```javascript
 import React from 'react'; // Import react

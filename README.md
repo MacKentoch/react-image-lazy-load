@@ -1,9 +1,9 @@
-# react-image-lazy-load
+# react-image-lazy-load-component
 React image lazy loading component inspired by [Polymer's Iron Image](https://www.webcomponents.org/element/PolymerElements/iron-image)
 
 ## How to use
 
-1. **npm install react-image-lazy-load**
+1. **npm install react-image-lazy-load-component**
 2. You will need 2 different images
     - First one will be the image you want to display once it's loaded. ( Image in full HD )
     - Second one will be a copy of the first image scaled down to **1%.** ( Image that will be displayed until the full HD image is loaded )

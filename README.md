@@ -12,6 +12,7 @@ React image lazy loading component inspired by [Polymer's Iron Image](https://ww
 ```javascript
 import React from 'react'; // Import react
 import IronImage from 'react-image-lazy-load'; // Import our component
+import ‘react-image-lazy-load-component/build/ironImage.css’; // Import component css
 
 // Images
 import image from './iron-image-small.jpg'; // Low quality image ( Scaled down to 1% of it's original size )
